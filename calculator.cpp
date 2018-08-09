@@ -28,6 +28,10 @@ class Calculator
     }
 };
 
+class Animal{
+
+};
+
 int main(){
     int x, y, result;
     cout << "Hello, im Calculator!\n";
